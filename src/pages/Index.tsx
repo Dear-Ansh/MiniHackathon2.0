@@ -93,7 +93,7 @@ const Index = () => {
                 </Button>
               </div>
               <p className="text-xs text-muted-foreground max-w-xs text-center">
-                Try "fraud@upi" for high risk, "verified@paytm" for low risk, or any UPI ID for varied results.
+                Try "fraud@upi" for high risk, "verified@upi" for low risk, or any UPI ID for varied results.
               </p>
             </motion.div>
           )}

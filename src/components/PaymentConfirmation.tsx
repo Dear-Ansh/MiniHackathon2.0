@@ -30,7 +30,7 @@ export default function PaymentConfirmation({ analysis, userAction, onNewPayment
       ? [{ icon: AlertTriangle, label: 'Risk warning shown', detail: `Fraud probability: ${analysis.fraudProbability}%` }]
       : []),
     { icon: ArrowRight, label: actionLabel[userAction] || 'Payment action taken', detail: '' },
-    { icon: CheckCircle2, label: 'Payment completed', detail: 'Protected by Paytm AI' },
+    { icon: CheckCircle2, label: 'Payment completed', detail: 'Protected by UPI AI' },
   ];
 
   return (

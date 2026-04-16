@@ -1,4 +1,4 @@
-# Paytm AI – Reputation Layer
+#UPI  AI – Reputation Layer
 
 **UPI Trust Score System** - Know who you're paying before you pay
 
@@ -65,4 +65,4 @@ src/
 
 ## License
 
-Proprietary - Paytm AI
+Proprietary - UPI AI

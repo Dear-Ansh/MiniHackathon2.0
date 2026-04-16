@@ -11,7 +11,7 @@ export default function Header() {
         <div className="flex items-center gap-2">
           <Shield className="h-7 w-7 text-primary" />
           <span className="text-xl font-bold tracking-tight text-foreground">
-            Paytm <span className="text-primary">AI</span>
+            UPI <span className="text-primary">AI</span>
           </span>
         </div>
         <button
